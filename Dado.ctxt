@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dado
+comment1.params=
+comment1.target=Dado()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Dado\r\n
+comment2.params=
+comment2.target=int\ getFace()
+comment2.text=\r\n\ M\u00E9todo\ que\ retorna\ uma\ face\ sorteada\ do\ dado.\r\n\ @return\ \ \ \ \ um\ n\u00FAmero\ aleat\u00F3rio\ entre\ 1\ e\ 6.\ \r\n
+comment3.params=
+comment3.target=void\ setFace()
+comment3.text=\r\n\ M\u00E9todo\ que\ sorteia\ um\ novo\ valor\ da\ face\ dado.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ M\u00E9todo\ que\ imprime\ o\ estado\ atual\ da\ face\ do\ dado.\r\n\ @return\ \ uma\ string\ que\ representa\ o\ estado\ atual\ do\ dado.\ \r\n
+numComments=5

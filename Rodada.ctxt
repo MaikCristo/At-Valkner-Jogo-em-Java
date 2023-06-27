@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Rodada
+comment1.params=
+comment1.target=Rodada()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Jogada\r\n
+comment2.params=
+comment2.target=int\ getTotal()
+comment2.text=\r\n\ m\u00E9todo\ que\ retorna\ um\ n\u00FAmero\ inteiro\ resultante\ do\ somat\u00F3rio\ das\ faces\ dos\ dados.\r\n
+comment3.params=
+comment3.target=void\ setTotal()
+comment3.text=\r\n\ m\u00E9todo\ que\ contabiliza\ o\ somat\u00F3rio\ das\ faces\ dos\ dados.\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getMeusDados()
+comment4.text=\r\n\ m\u00E9todo\ que\ retorna\ o\ ArrayList\ dos\ dados\ da\ jogada.\r\n\ @return\ \ ArrayList<Dado>\ contendo\ os\ objetos\ dados\ da\ Jogada.\ \r\n
+comment5.params=meusDado
+comment5.target=void\ setMeusDados(java.util.ArrayList)
+comment5.text=\r\n\ m\u00E9todo\ que\ atribu\u00ED\ uma\ nova\ configura\u00E7\u00E3o\ de\ dados\ a\ um\ objeto\ Jogada.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ que\ imprime\ o\ estado\ atual\ de\ uma\ jogada.\r\n\ @return\ \ uma\ string\ que\ representa\ o\ estado\ atual\ da\ jogada.\ \r\n
+numComments=7
